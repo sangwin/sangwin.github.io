@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Sangwin launched Angular 4 CRUD Application"
