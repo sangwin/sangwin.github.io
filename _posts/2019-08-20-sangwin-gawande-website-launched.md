@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sangwin Gawande, Full Stack Web/Mobile Developer, Launches Site"
+title: "Sangwin, Full Stack Developer, Launches Site"
 date: 2019-08-20
 ---
 
