@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: "2018-02-03-sangwin-launches-student-management-project"
-date: 2018-02-03
+title: "Sangwin launched Angular 4 CRUD Application"
+date: 2017-11-02
 ---
 
 # [Student Management](https://github.com/sangwin/students-management-angular-4)
