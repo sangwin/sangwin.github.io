@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sangwin Launched Angular 4 CRUD Application"
+weight: 1
 date: 2017-11-02
 ---
 
