@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sangwin, Full Stack Developer, Launches Site"
+weight: 3
 date: 2019-08-20
 ---
 
