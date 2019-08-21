@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sangwin Launches Student Management Project"
+weight: 2
 date: 2018-02-03
 ---
 
