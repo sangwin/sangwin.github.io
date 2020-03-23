@@ -1,3 +1,12 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(/fonts/design.graffiti.comicsansmsgras.ttf);
+}
+
+*:not(.fa) {
+    font-family: myFirstFont !important;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
