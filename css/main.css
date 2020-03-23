@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(/fonts/design.graffiti.comicsansmsgras.ttf);
+    src: url(../fonts/design.graffiti.comicsansmsgras.ttf);
 }
 
 *:not(.fa) {
